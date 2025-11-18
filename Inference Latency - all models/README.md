@@ -1,1 +1,2 @@
 All models are evaluated for inference latency within the same Google Colab session, using the high-RAM (51 GB) CPU and 3-second windows.
+When testing the same model in different sessions, its inference latency will fluctuate (for example, MiniRocket’s window_latency_p50_ms is ≈ 49.1377 in one session vs ≈ 30.7453 in another). However, if the inference latency is higher in a given session, it tends to be higher for all models, so comparing the inference latency of all models within the same session is still fair.
