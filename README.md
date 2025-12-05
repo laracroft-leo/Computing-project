@@ -4,3 +4,6 @@ RCCMix: a hybrid architecture that, using only a single waist-mounted sensor on 
 
 RCCMix Lightweight: a hybrid architecture that, on the RealWorld dataset using only a single waist-mounted sensor, achieves current state-of-the-art overall performance across four dimensions: accuracy, model size, energy consumption, and inference latency.
 ![lightweight rTsfNet](https://github.com/user-attachments/assets/5a7b7e9c-f380-456e-bddc-1525ded489f3)
+
+# Reproduce Experiments
+Download the .ipynb file, manually upload it to Google Colab, and then you can run everything automatically with a single click.
