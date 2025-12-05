@@ -7,3 +7,6 @@ RCCMix Lightweight: a hybrid architecture that, on the RealWorld dataset using o
 
 # Reproduce Experiments
 Download the .ipynb file, manually upload it to Google Colab, and then you can run everything automatically with a single click.
+
+# Contact
+If you have any questions about the code or experiments, please open an issue or contact me at wuy176@uni.coventry.ac.uk
