@@ -4,4 +4,5 @@ The weekly project process records are divided into a detailed version and a sim
 
 The remaining files are emails or documents that I sent to my supervisor each week to seek feedback, or materials that were returned to me after being reviewed and annotated by my supervisor.
 
+Sometimes when you open a document it does not fully load and only part of it is shown, this does not mean I only wrote that little. If this happens, you can click it again a few times to reload it.
 
