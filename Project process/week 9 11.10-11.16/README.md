@@ -3,3 +3,6 @@ Since the grades were not released before Christmas, I prepared an indefinite ba
 
 Part 1:
 https://livecoventryac-my.sharepoint.com/:v:/g/personal/wuy176_uni_coventry_ac_uk/IQCjpKhjMuW8QrGNSGusEJ7JAbOPU20GFg2jTZTlCPeg0J4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wCjgwK
+
+Part 2:
+https://livecoventryac-my.sharepoint.com/:v:/g/personal/wuy176_uni_coventry_ac_uk/IQBYQUDFbcoySZkdRDfmjmsRAT1zmEghJL1-QdOwxQPFb5o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=P7sb2C
