@@ -1,1 +1,5 @@
+Important!
+Since the grades were not released before Christmas, I prepared an indefinite backup link in advance to prevent the supervision link from expiring in case my supervisor reviews/marks the work after Christmas.
 
+Part 1:
+https://livecoventryac-my.sharepoint.com/:v:/g/personal/wuy176_uni_coventry_ac_uk/IQCjpKhjMuW8QrGNSGusEJ7JAbOPU20GFg2jTZTlCPeg0J4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wCjgwK
